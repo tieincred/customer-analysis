@@ -1,0 +1,2 @@
+A bank that saw a trend in it's customers that few of them have been leaving lately, and bank wants to know what makes them do that, so using the data they provide i found out the trend of what factors are making them leave the bank! and did a predictions of what employs could potentially leave the bank. so, that they could change services or counsel the banks and customers.
+I used ANN to develop the model!
